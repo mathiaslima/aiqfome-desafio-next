@@ -8,43 +8,7 @@ Projeto em Next.js focado em um sistema de pedidos rápidos para restaurantes, u
 ## 📁 Estrutura do Projeto
 
 A estrutura do projeto foi organizada de forma a manter uma separação clara entre responsabilidades, adotando uma abordagem **MVC-like (Model, View, Controller)** para facilitar escalabilidade e manutenção:
-```
 
-src/
-├── app/ # Páginas do Next.js (App Router)
-│ ├── restaurant/ # Página de restaurantes
-│ │ └── \[restaurantId]/product/\[productId]/request/\[nameRequest]/page.tsx
-│ ├── sumary/ # Tela de resumo dos pedidos
-│ └── layout.tsx # Layout global
-│
-├── components/ # Componentes reutilizáveis (UI)
-│ ├── Header.tsx
-│ ├── Footer.tsx
-│ └── ButtonShowTicket.tsx
-│
-├── contexts/ # Context API (estado global)
-│ └── TicketContext.tsx
-│
-├── controllers/ # Hooks personalizados (Controllers)
-│ ├── useRestaurants.tsx
-│ ├── useMenus.tsx
-│ └── useExtraSidesTicket.tsx
-│
-├── data/ # Dados mockados para testes
-│ ├── restaurants.json
-│ ├── menus.json
-│ └── extraSidesTicket.json
-│
-├── models/ # Tipagens e modelos
-│ ├── restaurant.ts
-│ ├── menu.ts
-│ └── ticket.ts
-│
-├── utils/ # Funções utilitárias
-│ ├── format.ts
-│ └── generate.ts
-
-````
 
 ---
 
