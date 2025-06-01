@@ -1,0 +1,95 @@
+{
+  "sizes": [
+    {
+      "id": "1",
+      "name": "médio",
+      "price": "R$ 19,90",
+      "originalPrice": "R$ 22,90",
+      "discount": true
+    },
+    {
+      "id": "1",
+      "name": "grande",
+      "price": "R$ 28,90"
+    }
+  ],
+  "cutlery": [
+    {
+      "id": "1",
+      "name": "hashi"
+    },
+    {
+      "id": "2",
+      "name": "garfo e faca descartável",
+      "price": "R$ 1,00"
+    }
+  ],
+  "anythingElse": {
+    "max": 2,
+    "items": [
+      {
+        "id": "1",
+        "name": "biscoito da sorte",
+        "price": "R$ 2,00"
+      },
+      {
+        "id": "2",
+        "name": "rolinho primavera",
+        "price": "R$ 8,00"
+      },
+      {
+        "id": "3",
+        "name": "guioza",
+        "price": "R$ 6,00"
+      }
+    ]
+  },
+  "extraSides": {
+    "max": 2,
+    "items": [
+      {
+        "id": "1",
+        "name": "shoyu"
+      },
+      {
+        "id": "2",
+        "name": "gengibre"
+      },
+      {
+        "id": "3",
+        "name": "wasabi"
+      },
+      {
+        "id": "4",
+        "name": "sem acompanhamentos"
+      }
+    ]
+  },
+  "drinks": [
+    {
+      "name": "coca-cola",
+      "id": "1",
+      "price": "R$ 5,00"
+    },
+    {
+      "name": "fanta laranja",
+      "id": "2",
+      "price": "R$ 5,00"
+    },
+    {
+      "name": "guaraná antarctica",
+      "id": "3",
+      "price": "R$ 5,00"
+    },
+    {
+      "name": "suco prats laranja",
+      "id": "4",
+      "price": "R$ 6,00"
+    },
+    {
+      "name": "água sem gás",
+      "id": "5",
+      "price": "R$ 3,00"
+    }
+  ]
+}

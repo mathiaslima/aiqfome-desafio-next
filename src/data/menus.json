@@ -1,0 +1,1500 @@
+[
+  {
+    "restaurantId": "1",
+    "products": [
+      {
+        "id": "1",
+        "name": "Niguiris",
+        "highPrice": true,
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Ceviches",
+        "highPrice": true,
+        "description": "um prato super refrescante de peixe fatiado e marinado com limão",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Temakis",
+        "description": "sushi em forma de cone com salmão e cream cheese",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola",
+            "description": "Refrigerante clássico",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Guaraná Antártica",
+            "description": "Refrigerante de guaraná",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Água Mineral",
+            "description": "Água sem gás",
+            "price": "R$ 3,00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Mousse de Maracujá",
+            "description": "Deliciosa mousse de maracujá",
+            "price": "R$ 7,00"
+          },
+          {
+            "name": "Brownie com Sorvete",
+            "description": "Brownie quente servido com sorvete de creme",
+            "price": "R$ 10,00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "2",
+    "products": [
+      {
+        "id": "1",
+        "name": "Niguiris",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Ceviches",
+        "description": "um prato super refrescante de peixe fatiado e marinado com limão",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Temakis",
+        "description": "sushi em forma de cone com salmão e cream cheese",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola",
+            "description": "Refrigerante clássico",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Guaraná Antártica",
+            "description": "Refrigerante de guaraná",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Água Mineral",
+            "description": "Água sem gás",
+            "price": "R$ 3,00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Mousse de Maracujá",
+            "description": "Deliciosa mousse de maracujá",
+            "price": "R$ 7,00"
+          },
+          {
+            "name": "Brownie com Sorvete",
+            "description": "Brownie quente servido com sorvete de creme",
+            "price": "R$ 10,00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "6",
+    "products": [
+      {
+        "id": "1",
+        "name": "Niguiris",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Ceviches",
+        "description": "um prato super refrescante de peixe fatiado e marinado com limão",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Temakis",
+        "description": "sushi em forma de cone com salmão e cream cheese",
+        "items": [
+          {
+            "name": "Califórnia",
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99",
+            "originalPrice": "R$ 17,00",
+            "discount": true
+          },
+          {
+            "name": "Califórnia",
+            "vegan": true,
+            "description": "Kani, pepino e maçã ou manga",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Filadélfia",
+            "description": "Arroz, salmão fresco, cream cheese e cebolinha",
+            "price": "R$ 13,99"
+          },
+          {
+            "name": "Mix",
+            "hot": true,
+            "description": "Escolha 3 ingredientes: shimeji, alface americana, rúcula, pepino, tomate seco, cream cheese, maionese, goiabada, banana, requeijão, molho de maracujá, manga, maçã e morango.",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          },
+          {
+            "name": "Salmão picante",
+            "hot": true,
+            "description": "Alga, arroz, salmão fresco, pimenta e cebolinha",
+            "price": "R$ 13,99",
+            "priceFrom": true
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola",
+            "description": "Refrigerante clássico",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Guaraná Antártica",
+            "description": "Refrigerante de guaraná",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Água Mineral",
+            "description": "Água sem gás",
+            "price": "R$ 3,00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Mousse de Maracujá",
+            "description": "Deliciosa mousse de maracujá",
+            "price": "R$ 7,00"
+          },
+          {
+            "name": "Brownie com Sorvete",
+            "description": "Brownie quente servido com sorvete de creme",
+            "price": "R$ 10,00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "3",
+    "products": [
+      {
+        "id": "1",
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Whopper + Batata + Refri",
+            "description": "Whopper, batata média e refrigerante 300ml",
+            "price": "R$ 29,90",
+            "originalPrice": "R$ 35,00",
+            "discount": true
+          },
+          {
+            "name": "Cheeseburger Duplo + Batata",
+            "description": "2 cheeseburgers e batata média",
+            "price": "R$ 24,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches",
+        "items": [
+          {
+            "name": "Whopper",
+            "description": "Pão com gergelim, hambúrguer, queijo, alface, tomate, maionese, ketchup",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "Cheeseburger",
+            "description": "Pão, hambúrguer, queijo, picles, cebola, ketchup, mostarda",
+            "price": "R$ 12,90"
+          },
+          {
+            "name": "Chicken Crispy",
+            "description": "Filé de frango empanado, pão, alface, maionese",
+            "price": "R$ 15,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "name": "Batata Frita Média",
+            "description": "Porção média de batata frita",
+            "price": "R$ 9,90"
+          },
+          {
+            "name": "Onion Rings",
+            "description": "Anéis de cebola empanados",
+            "price": "R$ 11,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola 300ml",
+            "description": "Refrigerante 300ml",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "Suco Natural Laranja",
+            "description": "Suco de laranja natural 300ml",
+            "price": "R$ 8,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Sundae Chocolate",
+            "description": "Sorvete de creme com calda de chocolate",
+            "price": "R$ 7,90"
+          },
+          {
+            "name": "Torta de Maçã",
+            "description": "Fatia de torta de maçã",
+            "price": "R$ 9,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "4",
+    "products": [
+      {
+        "id": "1",
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Whopper + Batata + Refri",
+            "description": "Whopper, batata média e refrigerante 300ml",
+            "price": "R$ 29,90",
+            "originalPrice": "R$ 35,00",
+            "discount": true
+          },
+          {
+            "name": "Cheeseburger Duplo + Batata",
+            "description": "2 cheeseburgers e batata média",
+            "price": "R$ 24,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches",
+        "items": [
+          {
+            "name": "Whopper",
+            "description": "Pão com gergelim, hambúrguer, queijo, alface, tomate, maionese, ketchup",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "Cheeseburger",
+            "description": "Pão, hambúrguer, queijo, picles, cebola, ketchup, mostarda",
+            "price": "R$ 12,90"
+          },
+          {
+            "name": "Chicken Crispy",
+            "description": "Filé de frango empanado, pão, alface, maionese",
+            "price": "R$ 15,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "name": "Batata Frita Média",
+            "description": "Porção média de batata frita",
+            "price": "R$ 9,90"
+          },
+          {
+            "name": "Onion Rings",
+            "description": "Anéis de cebola empanados",
+            "price": "R$ 11,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola 300ml",
+            "description": "Refrigerante 300ml",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "Suco Natural Laranja",
+            "description": "Suco de laranja natural 300ml",
+            "price": "R$ 8,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Sundae Chocolate",
+            "description": "Sorvete de creme com calda de chocolate",
+            "price": "R$ 7,90"
+          },
+          {
+            "name": "Torta de Maçã",
+            "description": "Fatia de torta de maçã",
+            "price": "R$ 9,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "5",
+    "products": [
+      {
+        "id": "1",
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Big Mac + Batata + Refri",
+            "description": "Big Mac, batata média e refrigerante 300ml",
+            "price": "R$ 29,90",
+            "originalPrice": "R$ 35,00",
+            "discount": true
+          },
+          {
+            "name": "McChicken + McFritas",
+            "description": "McChicken e batata média",
+            "price": "R$ 24,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches",
+        "items": [
+          {
+            "name": "Big Mac",
+            "description": "Dois hambúrgueres, alface, queijo, molho especial, cebola, picles, pão com gergelim",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "McChicken",
+            "description": "Filé de frango empanado, alface, maionese, pão",
+            "price": "R$ 15,90"
+          },
+          {
+            "name": "Quarterão",
+            "description": "Hambúrguer, queijo, picles, cebola, ketchup, mostarda, pão com gergelim",
+            "price": "R$ 16,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "name": "Batata Média",
+            "description": "Porção média de batata frita",
+            "price": "R$ 9,90"
+          },
+          {
+            "name": "McNuggets 10 unidades",
+            "description": "10 pedaços de frango empanado",
+            "price": "R$ 14,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola 300ml",
+            "description": "Refrigerante 300ml",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "McShake Chocolate",
+            "description": "Milk-shake de chocolate 300ml",
+            "price": "R$ 12,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "McFlurry Oreo",
+            "description": "Sorvete com pedaços de biscoito Oreo",
+            "price": "R$ 10,90"
+          },
+          {
+            "name": "Torta de Maçã",
+            "description": "Fatia de torta de maçã",
+            "price": "R$ 8,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "7",
+    "products": [
+      {
+        "id": "1",
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Big Mac + Batata + Refri",
+            "description": "Big Mac, batata média e refrigerante 300ml",
+            "price": "R$ 29,90",
+            "originalPrice": "R$ 35,00",
+            "discount": true
+          },
+          {
+            "name": "McChicken + McFritas",
+            "description": "McChicken e batata média",
+            "price": "R$ 24,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches",
+        "items": [
+          {
+            "name": "Big Mac",
+            "description": "Dois hambúrgueres, alface, queijo, molho especial, cebola, picles, pão com gergelim",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "McChicken",
+            "description": "Filé de frango empanado, alface, maionese, pão",
+            "price": "R$ 15,90"
+          },
+          {
+            "name": "Quarterão",
+            "description": "Hambúrguer, queijo, picles, cebola, ketchup, mostarda, pão com gergelim",
+            "price": "R$ 16,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "name": "Batata Média",
+            "description": "Porção média de batata frita",
+            "price": "R$ 9,90"
+          },
+          {
+            "name": "McNuggets 10 unidades",
+            "description": "10 pedaços de frango empanado",
+            "price": "R$ 14,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola 300ml",
+            "description": "Refrigerante 300ml",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "McShake Chocolate",
+            "description": "Milk-shake de chocolate 300ml",
+            "price": "R$ 12,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "McFlurry Oreo",
+            "description": "Sorvete com pedaços de biscoito Oreo",
+            "price": "R$ 10,90"
+          },
+          {
+            "name": "Torta de Maçã",
+            "description": "Fatia de torta de maçã",
+            "price": "R$ 8,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "8",
+    "products": [
+      {
+        "id": "1",
+        "name": "Niguiris",
+        "highPrice": true,
+        "items": [
+          {
+            "name": "Salmão",
+            "description": "Arroz, salmão fresco e alga",
+            "price": "R$ 14,99",
+            "originalPrice": "R$ 18,00",
+            "discount": true
+          },
+          {
+            "name": "Atum",
+            "description": "Arroz, atum fresco e alga",
+            "price": "R$ 14,99"
+          },
+          {
+            "name": "Camarão",
+            "description": "Arroz, camarão fresco e alga",
+            "price": "R$ 16,99"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sashimis",
+        "description": "Fatias finas de peixe fresco",
+        "items": [
+          {
+            "name": "Salmão (10 unidades)",
+            "description": "10 fatias de salmão fresco",
+            "price": "R$ 24,99"
+          },
+          {
+            "name": "Atum (10 unidades)",
+            "description": "10 fatias de atum fresco",
+            "price": "R$ 22,99"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Temakis",
+        "description": "sushi em forma de cone com salmão e cream cheese",
+        "items": [
+          {
+            "name": "Temaki Salmão",
+            "description": "Alga, arroz, salmão fresco e cream cheese",
+            "price": "R$ 18,99"
+          },
+          {
+            "name": "Temaki Vegetariano",
+            "vegan": true,
+            "description": "Alga, arroz, pepino, manga e abacate",
+            "price": "R$ 16,99"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Chá Verde",
+            "description": "Chá verde tradicional japonês",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Saquê (180ml)",
+            "description": "Saquê tradicional japonês",
+            "price": "R$ 25,00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Mochi",
+            "description": "Bolinho de arroz recheado (opções: chocolate, morango, matchá)",
+            "price": "R$ 8,00"
+          },
+          {
+            "name": "Dorayaki",
+            "description": "Panqueca japonesa recheada com doce de feijão",
+            "price": "R$ 10,00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "9",
+    "products": [
+      {
+        "id": "1",
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Whopper + Batata + Refri",
+            "description": "Whopper, batata média e refrigerante 300ml",
+            "price": "R$ 29,90",
+            "originalPrice": "R$ 35,00",
+            "discount": true
+          },
+          {
+            "name": "Cheeseburger Duplo + Batata",
+            "description": "2 cheeseburgers e batata média",
+            "price": "R$ 24,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches",
+        "items": [
+          {
+            "name": "Whopper",
+            "description": "Pão com gergelim, hambúrguer, queijo, alface, tomate, maionese, ketchup",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "Cheeseburger",
+            "description": "Pão, hambúrguer, queijo, picles, cebola, ketchup, mostarda",
+            "price": "R$ 12,90"
+          },
+          {
+            "name": "Chicken Crispy",
+            "description": "Filé de frango empanado, pão, alface, maionese",
+            "price": "R$ 15,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "name": "Batata Frita Média",
+            "description": "Porção média de batata frita",
+            "price": "R$ 9,90"
+          },
+          {
+            "name": "Onion Rings",
+            "description": "Anéis de cebola empanados",
+            "price": "R$ 11,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola 300ml",
+            "description": "Refrigerante 300ml",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "Suco Natural Laranja",
+            "description": "Suco de laranja natural 300ml",
+            "price": "R$ 8,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Sundae Chocolate",
+            "description": "Sorvete de creme com calda de chocolate",
+            "price": "R$ 7,90"
+          },
+          {
+            "name": "Torta de Maçã",
+            "description": "Fatia de torta de maçã",
+            "price": "R$ 9,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "10",
+    "products": [
+      {
+        "id": "1",
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Whopper + Batata + Refri",
+            "description": "Whopper, batata média e refrigerante 300ml",
+            "price": "R$ 29,90",
+            "originalPrice": "R$ 35,00",
+            "discount": true
+          },
+          {
+            "name": "Cheeseburger Duplo + Batata",
+            "description": "2 cheeseburgers e batata média",
+            "price": "R$ 24,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches",
+        "items": [
+          {
+            "name": "Whopper",
+            "description": "Pão com gergelim, hambúrguer, queijo, alface, tomate, maionese, ketchup",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "Cheeseburger",
+            "description": "Pão, hambúrguer, queijo, picles, cebola, ketchup, mostarda",
+            "price": "R$ 12,90"
+          },
+          {
+            "name": "Chicken Crispy",
+            "description": "Filé de frango empanado, pão, alface, maionese",
+            "price": "R$ 15,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "name": "Batata Frita Média",
+            "description": "Porção média de batata frita",
+            "price": "R$ 9,90"
+          },
+          {
+            "name": "Onion Rings",
+            "description": "Anéis de cebola empanados",
+            "price": "R$ 11,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola 300ml",
+            "description": "Refrigerante 300ml",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "Suco Natural Laranja",
+            "description": "Suco de laranja natural 300ml",
+            "price": "R$ 8,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Sundae Chocolate",
+            "description": "Sorvete de creme com calda de chocolate",
+            "price": "R$ 7,90"
+          },
+          {
+            "name": "Torta de Maçã",
+            "description": "Fatia de torta de maçã",
+            "price": "R$ 9,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "11",
+    "products": [
+      {
+        "id": "1",
+        "name": "Combos",
+        "items": [
+          {
+            "name": "Big Mac + Batata + Refri",
+            "description": "Big Mac, batata média e refrigerante 300ml",
+            "price": "R$ 29,90",
+            "originalPrice": "R$ 35,00",
+            "discount": true
+          },
+          {
+            "name": "McChicken + McFritas",
+            "description": "McChicken e batata média",
+            "price": "R$ 24,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches",
+        "items": [
+          {
+            "name": "Big Mac",
+            "description": "Dois hambúrgueres, alface, queijo, molho especial, cebola, picles, pão com gergelim",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "McChicken",
+            "description": "Filé de frango empanado, alface, maionese, pão",
+            "price": "R$ 15,90"
+          },
+          {
+            "name": "Quarterão",
+            "description": "Hambúrguer, queijo, picles, cebola, ketchup, mostarda, pão com gergelim",
+            "price": "R$ 16,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Acompanhamentos",
+        "items": [
+          {
+            "name": "Batata Média",
+            "description": "Porção média de batata frita",
+            "price": "R$ 9,90"
+          },
+          {
+            "name": "McNuggets 10 unidades",
+            "description": "10 pedaços de frango empanado",
+            "price": "R$ 14,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Coca-Cola 300ml",
+            "description": "Refrigerante 300ml",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "McShake Chocolate",
+            "description": "Milk-shake de chocolate 300ml",
+            "price": "R$ 12,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "McFlurry Oreo",
+            "description": "Sorvete com pedaços de biscoito Oreo",
+            "price": "R$ 10,90"
+          },
+          {
+            "name": "Torta de Maçã",
+            "description": "Fatia de torta de maçã",
+            "price": "R$ 8,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "12",
+    "products": [
+      {
+        "id": "1",
+        "name": "Sanduíches Clássicos",
+        "items": [
+          {
+            "name": "Subway Melt",
+            "description": "Peito de peru, presunto, queijo derretido e seus vegetais favoritos",
+            "price": "R$ 22,90"
+          },
+          {
+            "name": "B.M.T.",
+            "description": "Salame, pepperoni, presunto e seus vegetais favoritos",
+            "price": "R$ 24,90"
+          },
+          {
+            "name": "Frango Teriyaki",
+            "description": "Frango grelhado com molho teriyaki e seus vegetais favoritos",
+            "price": "R$ 21,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches Veganos",
+        "items": [
+          {
+            "name": "Veggie Delight",
+            "vegan": true,
+            "description": "Pão, vegetais frescos e molho de sua escolha",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "Falafel",
+            "vegan": true,
+            "description": "Bolinho de grão-de-bico, vegetais e molho",
+            "price": "R$ 20,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Saladas",
+        "items": [
+          {
+            "name": "Salada de Frango",
+            "description": "Mix de folhas, frango grelhado e vegetais",
+            "price": "R$ 19,90"
+          },
+          {
+            "name": "Salada Vegana",
+            "vegan": true,
+            "description": "Mix de folhas, vegetais frescos e molho",
+            "price": "R$ 17,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Refrigerante 500ml",
+            "description": "Coca-Cola, Guaraná ou Fanta",
+            "price": "R$ 8,90"
+          },
+          {
+            "name": "Suco Natural 300ml",
+            "description": "Laranja, abacaxi ou maracujá",
+            "price": "R$ 7,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Cookies",
+        "items": [
+          {
+            "name": "Cookie Chocolate",
+            "description": "Cookie com gotas de chocolate",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "Cookie Aveia",
+            "description": "Cookie com aveia e passas",
+            "price": "R$ 6,90"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "13",
+    "products": [
+      {
+        "id": "1",
+        "name": "Niguiris",
+        "highPrice": true,
+        "items": [
+          {
+            "name": "Salmão",
+            "description": "Arroz, salmão fresco e alga",
+            "price": "R$ 14,99",
+            "originalPrice": "R$ 18,00",
+            "discount": true
+          },
+          {
+            "name": "Atum",
+            "description": "Arroz, atum fresco e alga",
+            "price": "R$ 14,99"
+          },
+          {
+            "name": "Camarão",
+            "description": "Arroz, camarão fresco e alga",
+            "price": "R$ 16,99"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sashimis",
+        "description": "Fatias finas de peixe fresco",
+        "items": [
+          {
+            "name": "Salmão (10 unidades)",
+            "description": "10 fatias de salmão fresco",
+            "price": "R$ 24,99"
+          },
+          {
+            "name": "Atum (10 unidades)",
+            "description": "10 fatias de atum fresco",
+            "price": "R$ 22,99"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Temakis",
+        "description": "sushi em forma de cone com salmão e cream cheese",
+        "items": [
+          {
+            "name": "Temaki Salmão",
+            "description": "Alga, arroz, salmão fresco e cream cheese",
+            "price": "R$ 18,99"
+          },
+          {
+            "name": "Temaki Vegetariano",
+            "vegan": true,
+            "description": "Alga, arroz, pepino, manga e abacate",
+            "price": "R$ 16,99"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Chá Verde",
+            "description": "Chá verde tradicional japonês",
+            "price": "R$ 5,00"
+          },
+          {
+            "name": "Saquê (180ml)",
+            "description": "Saquê tradicional japonês",
+            "price": "R$ 25,00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Sobremesas",
+        "items": [
+          {
+            "name": "Mochi",
+            "description": "Bolinho de arroz recheado (opções: chocolate, morango, matchá)",
+            "price": "R$ 8,00"
+          },
+          {
+            "name": "Dorayaki",
+            "description": "Panqueca japonesa recheada com doce de feijão",
+            "price": "R$ 10,00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "restaurantId": "14",
+    "products": [
+      {
+        "id": "1",
+        "name": "Sanduíches Clássicos",
+        "items": [
+          {
+            "name": "Subway Melt",
+            "description": "Peito de peru, presunto, queijo derretido e seus vegetais favoritos",
+            "price": "R$ 22,90"
+          },
+          {
+            "name": "B.M.T.",
+            "description": "Salame, pepperoni, presunto e seus vegetais favoritos",
+            "price": "R$ 24,90"
+          },
+          {
+            "name": "Frango Teriyaki",
+            "description": "Frango grelhado com molho teriyaki e seus vegetais favoritos",
+            "price": "R$ 21,90"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Sanduíches Veganos",
+        "items": [
+          {
+            "name": "Veggie Delight",
+            "vegan": true,
+            "description": "Pão, vegetais frescos e molho de sua escolha",
+            "price": "R$ 18,90"
+          },
+          {
+            "name": "Falafel",
+            "vegan": true,
+            "description": "Bolinho de grão-de-bico, vegetais e molho",
+            "price": "R$ 20,90"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Saladas",
+        "items": [
+          {
+            "name": "Salada de Frango",
+            "description": "Mix de folhas, frango grelhado e vegetais",
+            "price": "R$ 19,90"
+          },
+          {
+            "name": "Salada Vegana",
+            "vegan": true,
+            "description": "Mix de folhas, vegetais frescos e molho",
+            "price": "R$ 17,90"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Bebidas",
+        "items": [
+          {
+            "name": "Refrigerante 500ml",
+            "description": "Coca-Cola, Guaraná ou Fanta",
+            "price": "R$ 8,90"
+          },
+          {
+            "name": "Suco Natural 300ml",
+            "description": "Laranja, abacaxi ou maracujá",
+            "price": "R$ 7,90"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Cookies",
+        "items": [
+          {
+            "name": "Cookie Chocolate",
+            "description": "Cookie com gotas de chocolate",
+            "price": "R$ 6,90"
+          },
+          {
+            "name": "Cookie Aveia",
+            "description": "Cookie com aveia e passas",
+            "price": "R$ 6,90"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,36 +1,96 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+```md
+# 🍽️ FastOrder
 
-## Getting Started
+Projeto em Next.js focado em um sistema de pedidos rápidos para restaurantes, utilizando arquitetura baseada em **MVC** e o novo **App Router** do Next.js.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## 📁 Estrutura do Projeto
+
+A estrutura do projeto foi organizada de forma a manter uma separação clara entre responsabilidades, adotando uma abordagem **MVC-like (Model, View, Controller)** para facilitar escalabilidade e manutenção:
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+src/
+├── app/ # Páginas do Next.js (App Router)
+│ ├── restaurant/ # Página de restaurantes
+│ │ └── \[restaurantId]/product/\[productId]/request/\[nameRequest]/page.tsx
+│ ├── sumary/ # Tela de resumo dos pedidos
+│ └── layout.tsx # Layout global
+│
+├── components/ # Componentes reutilizáveis (UI)
+│ ├── Header.tsx
+│ ├── Footer.tsx
+│ └── ButtonShowTicket.tsx
+│
+├── contexts/ # Context API (estado global)
+│ └── TicketContext.tsx
+│
+├── controllers/ # Hooks personalizados (Controllers)
+│ ├── useRestaurants.tsx
+│ ├── useMenus.tsx
+│ └── useExtraSidesTicket.tsx
+│
+├── data/ # Dados mockados para testes
+│ ├── restaurants.json
+│ ├── menus.json
+│ └── extraSidesTicket.json
+│
+├── models/ # Tipagens e modelos
+│ ├── restaurant.ts
+│ ├── menu.ts
+│ └── ticket.ts
+│
+├── utils/ # Funções utilitárias
+│ ├── format.ts
+│ └── generate.ts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+````
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🚀 Como rodar o projeto
 
-To learn more about Next.js, take a look at the following resources:
+### Pré-requisitos
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Node.js (v18+ recomendado)
+- Yarn ou npm
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Passos
 
-## Deploy on Vercel
+```bash
+# Instale as dependências
+npm install
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+# ou
+yarn install
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+# Rode o projeto em modo de desenvolvimento
+npm run dev
+
+# ou
+yarn dev
+````
+
+O projeto será executado em `http://localhost:3000`.
+
+---
+
+## 🧠 Tomadas de Decisão
+
+- **App Router do Next.js**: Utilizado para aproveitar o carregamento assíncrono nativo, layouts por pasta e melhor organização de rotas dinâmicas.
+- **Arquitetura baseada em MVC**:
+
+  - `models/`: Interface e estrutura dos dados.
+  - `controllers/`: Hooks personalizados que atuam como controladores de lógica de negócio.
+  - `components/`: Interface e elementos visuais (View).
+
+- **Context API**: Utilizado para gerenciar o estado global de tickets, evitando prop-drilling.
+- **Dados mockados**: `data/` foi usado para simular respostas de uma API externa.
+- **Tailwind CSS** — estilização rápida e responsiva
+- **Modularização**: Cada tipo de entidade (restaurantes, menus, tickets) tem seus arquivos separados, mantendo responsabilidade única.
+
+---
+
+## ⚠️ Avisos
+
+- Algumas funcionalidades ainda estão em desenvolvimento, como alguns botões não clicáveis.

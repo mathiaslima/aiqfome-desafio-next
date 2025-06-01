@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1",
+    "name": "Matsuri Concept",
+    "deliveryFee": "free",
+    "rating": 4.7,
+    "image": "/images/matsuri.png",
+    "category": "Japanese",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Subway - Avenida center",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/subway.png",
+    "category": "Sandwich",
+    "isOpen": false,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Burger King - Colombo",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/burger-king.png",
+    "category": "Burger",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Burger King - Colombo",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/burger-king.png",
+    "category": "Burger",
+    "isOpen": false,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "5",
+    "name": "McDonald’s - Novo Centro",
+    "deliveryFee": "free",
+    "rating": 4.7,
+    "image": "/images/mcdonalds.png",
+    "category": "Burger",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Subway - Avenida center",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/subway.png",
+    "category": "Sandwich",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "7",
+    "name": "McDonald’s - Novo Centro",
+    "deliveryFee": "free",
+    "rating": 4.7,
+    "image": "/images/mcdonalds.png",
+    "category": "Burger",
+    "isOpen": false,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Matsuri Concept",
+    "deliveryFee": "free",
+    "rating": 4.7,
+    "image": "/images/matsuri.png",
+    "category": "Japanese",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Burger King - Colombo",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/burger-king.png",
+    "category": "Burger",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Burger King - Colombo",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/burger-king.png",
+    "category": "Burger",
+    "isOpen": false,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "11",
+    "name": "McDonald’s - Novo Centro",
+    "deliveryFee": "free",
+    "rating": 4.7,
+    "image": "/images/mcdonalds.png",
+    "category": "Burger",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Subway - Avenida center",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/subway.png",
+    "category": "Sandwich",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Matsuri Concept",
+    "deliveryFee": "free",
+    "rating": 4.7,
+    "image": "/images/matsuri.png",
+    "category": "Japanese",
+    "isOpen": true,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Subway - Avenida center",
+    "deliveryFee": "R$6.00",
+    "rating": 4.7,
+    "image": "/images/subway.png",
+    "category": "Sandwich",
+    "isOpen": false,
+    "details": {
+      "time": "30-40 min",
+      "distance": "5.2km",
+      "dateClosed": "20:00",
+      "amountFreeDelivery": "R$ 35,00",
+      "minOrder": "R$ 15,00"
+    }
+  }
+]
