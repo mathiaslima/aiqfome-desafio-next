@@ -1,4 +1,4 @@
-```md
+
 # 🍽️ FastOrder
 
 Projeto em Next.js focado em um sistema de pedidos rápidos para restaurantes, utilizando arquitetura baseada em **MVC** e o novo **App Router** do Next.js.
